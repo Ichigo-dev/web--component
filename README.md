@@ -1,1 +1,2 @@
-# web--component
+# web-component
+コーディングの際に使えるボタン、アニメーション等の寄せ集め
